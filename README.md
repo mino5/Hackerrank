@@ -3,8 +3,8 @@ Hackerrank solutions
 
 Dynamic Programming:
 -------------------
-Abbrevation -> https://www.hackerrank.com/challenges/abbr
+<a href="https://www.hackerrank.com/challenges/abbr">Abbrevation</a>
 
 Graph Theory:
 -------------
-The Story of a tree -> https://www.hackerrank.com/challenges/the-story-of-a-tree
+<a href="https://www.hackerrank.com/challenges/the-story-of-a-tree">The Story of a tree</a>
